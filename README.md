@@ -27,7 +27,7 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - 121-122: Functions Part 1: Challenge - The Karel Robot
 - 124: Functions Part 2: Parameters and Arguments
 
-#### Phase 1: Introduction to JavaScript and ES6
+### Phase 1: Introduction to JavaScript and ES6
 
 - 131: Random Number Generation in Javascript: Building a Love Calculator
 - 132: Control Statements: Using If-Else Conditionals & Logic
